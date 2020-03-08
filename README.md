@@ -1,2 +1,2 @@
-# grjunbos.github.io
-My first design's
+# Andrei Grunbaum
+My first site 
